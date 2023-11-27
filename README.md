@@ -44,9 +44,9 @@ Adjust the values according to your project requirements.
 yarn dev
 ```
 
-Your Node.js application should now be running at [http://localhost:5000](http://localhost:5000).
+Your website should now be running at [http://localhost:5000](http://localhost:5000).
 
 ## Additional Notes
 
-- Make sure you have Node.js and npm installed.
+- Make sure you have Node.js and yarn installed.
 - Make sure you also run the backend, because the frontend will hit the REST API provided by the backend.
